@@ -56,6 +56,7 @@ DOMAIN-SUFFIX,bootcss.com
 DOMAIN-SUFFIX,tailwindui.com
 DOMAIN-SUFFIX,uniapi.ai
 DOMAIN-SUFFIX,uniapi.io
+DOMAIN-SUFFIX,wezfurlong.org
 
 IP-CIDR,8.8.8.8/32,no-resolve
 IP-CIDR,8.8.4.4/32,no-resolve
